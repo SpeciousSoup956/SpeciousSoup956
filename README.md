@@ -1,14 +1,16 @@
-### <b>Hi there</b> 👋🏽
+### <h1><b>Hi there 👋🏽</b></h1> 
 
-- 🔭 Atualmente trabalho como Analista de Suporte e realizo diversas consultas em Banco de Dados.
+- 🔭 Atuo como Analista de Suporte e realizo diversas consultas em Banco de Dados.
 - 🌱 Hoje estou estudando C, HTML/CSS e Java Script.
 - 📫 Contate-me no e-mail: <i><b>marianebedia@outlook.com</b></i>
 - ⚡ Fun fact: Sou cosplayer. Você pode visitar meu perfil no instagram: <i><b>@Marianebedia</b><i/>
+  
+  ##
 
 <div align="center">
   <a href="https://github.com/SpeciousSoup956">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SpeciousSoup956&show_icons=true&theme=jolly&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SpeciousSoup956&layout=compact&langs_count=7&theme=jolly"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=SpeciousSoup956&show_icons=true&theme=jolly&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SpeciousSoup956&layout=compact&langs_count=7&theme=jolly"/>
 </div>
   
   <div style="display: inline_block"><br>
@@ -20,8 +22,22 @@
   <img align="center" alt="mari-php" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg"> 
   <img align="center" alt="mari-docker" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg">
    
+   <img align="right" alt="mari-pic" height="150" style="border-radius:50px;" src="https://user-images.githubusercontent.com/86253405/153675432-99e45ff4-0a8d-46d7-81f1-baeddce14ea7.png">
     
-
 
 </div>
   
+##
+
+<div align="left">   
+  <a href="https://instagram.com/marianebedia" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"     target="_blank"></a>
+  <a href = "mailto:marianebedia2@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/mariane-b-andrade-255789198/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
+  <a href="mailto:marianebedia@outlook.com"target="_blank"><img src=https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white></a>  
+  <a href="https://steamcommunity.com/profiles/76561198868031515/" target="_blank"><img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" target="_blank"></a>  
+  
+  
+  
+</div>
+  
+  ##
