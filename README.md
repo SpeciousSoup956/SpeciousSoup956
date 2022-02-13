@@ -15,12 +15,14 @@
   
   <div style="display: inline_block"><br>
   <img align="center" alt="mari-c-ling" height="30" width="30" src="https://img.icons8.com/color/48/000000/c-programming.png">
+  <img align="center" alt="mari-sqlr" height="30" width="30" src="https://img.icons8.com/color/48/000000/sql.png">
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"> 
   <img align="center" alt="mari-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="mari-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="mari-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="mari-php" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg"> 
   <img align="center" alt="mari-docker" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg">
+  
    
    <img align="right" alt="mari-pic" height="150" style="border-radius:50px;" src="https://user-images.githubusercontent.com/86253405/153675432-99e45ff4-0a8d-46d7-81f1-baeddce14ea7.png">
     
