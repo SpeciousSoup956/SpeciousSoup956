@@ -1,5 +1,9 @@
 ### <h1 align="left"> <b><ins> Hi there </ins></b> <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px"></h1> 
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=SpeciousSoup956&color=yellow" alt="Profile views" /> </p>
+
+
+
 - 🔭 Atuo como Analista de Suporte.
 - 🌱 Atualmente estou estudando <b>C</b> e <b>Java Script</b>.
 - 📫 Contate-me no e-mail: <i><b><ins>marianebedia@outlook.com</ins></b></i>
