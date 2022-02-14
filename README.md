@@ -1,6 +1,6 @@
 ### <h1><ins><b><mark>WELCOME👋🏽</mark></b></ins></h1> 
 
-- 🔭 Atuo como Analista de Suporte e realizo diversas consultas em Banco de Dados.
+- 🔭 Atuo como Analista de Suporte e realizando consultas em Banco de Dados.
 - 🌱 Atualmente estou estudando C, HTML/CSS e Java Script.
 - 📫 Contate-me no e-mail: <i><b><ins>marianebedia@outlook.com</ins></b></i>
 - ⚡ Fun fact: Sou cosplayer. Você pode visitar meu perfil no instagram: <a href="https://instagram.com/marianebedia" target="_blank"> <i><b><ins>@Marianebedia</ins></b><i/></a>
