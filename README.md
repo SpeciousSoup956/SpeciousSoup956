@@ -22,9 +22,10 @@
   <img align="center" alt="mari-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="mari-php" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg"> 
   <img align="center" alt="mari-docker" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg">
+     
   
    
-   <img align="right" alt="mari-pic" height="150" style="border-radius:50px;" src="https://user-images.githubusercontent.com/86253405/153675432-99e45ff4-0a8d-46d7-81f1-baeddce14ea7.png">
+   <img align="right" alt="mari-pic" height="150" style="border-radius:50px;" src="https://user-images.githubusercontent.com/86253405/153959380-178a5f9e-f83d-49f2-9169-8b3718cd9624.gif">
     
 
 </div>
