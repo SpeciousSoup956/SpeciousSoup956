@@ -1,6 +1,6 @@
 ### <h1 align="left"> <b><ins> Hi there </ins></b> <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px"></h1> 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=SpeciousSoup956&color=yellow" alt="Profile views" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=SpeciousSoup956&color=ff69b4" alt="Profile views" /> </p>
 
 
 
