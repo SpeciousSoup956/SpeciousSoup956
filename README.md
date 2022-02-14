@@ -1,4 +1,4 @@
-### <h1><ins><b><mark>WELCOME👋🏽</mark></b></ins></h1> 
+### <h1 align="left"> <b><ins> Hi there </ins></b> <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px"></h1> 
 
 - 🔭 Atuo como Analista de Suporte.
 - 🌱 Atualmente estou estudando <b>C</b> e <b>Java Script</b>.
