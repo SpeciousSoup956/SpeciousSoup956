@@ -1,10 +1,10 @@
-### <h1><b>WELCOME👋🏽</b></h1> 
+### <h1><ins><b><mark>WELCOME👋🏽</mark></b></ins></h1> 
 
 - 🔭 Atuo como Analista de Suporte e realizo diversas consultas em Banco de Dados.
 - 🌱 Hoje estou estudando C, HTML/CSS e Java Script.
-- 📫 Contate-me no e-mail: <i><b>marianebedia@outlook.com</b></i>
-- ⚡ Fun fact: Sou cosplayer. Você pode visitar meu perfil no instagram: <i><b>@Marianebedia</b><i/>
-  
+- 📫 Contate-me no e-mail: <i><b><ins>marianebedia@outlook.com</ins></b></i>
+- ⚡ Fun fact: Sou cosplayer. Você pode visitar meu perfil no instagram: <i><b><ins>@Marianebedia</ins></b><i/>
+   
   ##
 
 <div align="center">
