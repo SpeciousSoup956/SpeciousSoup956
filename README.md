@@ -47,9 +47,11 @@
   
 </div>
   
-  ##
    
    ### <h1 align="left"> <b><ins> Trophies 🏆 </ins> </b> </h1>
+   <div align="center">
+      
    [![trophy](https://github-profile-trophy.vercel.app/?username=SpeciousSoup956&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
-   
+ 
+   </div>
    
