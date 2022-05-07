@@ -37,11 +37,14 @@
 ##
 
 <div align="left">   
-  <a href="https://instagram.com/marianebedia" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"     target="_blank"></a>
+  <a href="https://instagram.com/marianebedia" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+   <a href="https://www.twitch.tv/specioussoup956" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
+   <a href="https://steamcommunity.com/profiles/76561198868031515/" target="_blank"><img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" target="_blank"></a>  
   <a href = "mailto:marianebedia2@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/mariane-b-andrade-255789198/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
   <a href="mailto:marianebedia@outlook.com"target="_blank"><img src=https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white></a>  
-  <a href="https://steamcommunity.com/profiles/76561198868031515/" target="_blank"><img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" target="_blank"></a>  
+  
+   
   
 ![Snake animation](https://github.com/SpeciousSoup956/SpeciousSoup956/blob/output/github-contribution-grid-snake.svg)
   
