@@ -30,7 +30,8 @@
      
   
    
-  <img align="right" alt="mari-pic" height="150" style="border-radius:50px;" src="https://user-images.githubusercontent.com/86253405/153959380-178a5f9e-f83d-49f2-9169-8b3718cd9624.gif">
+ <!-- <img align="right" alt="mari-pic" height="150" style="border-radius:50px;" src="https://user-images.githubusercontent.com/86253405/153959380-178a5f9e-f83d-49f2-9169-8b3718cd9624.gif"> -->
+ <img align="right" alt="mari-icon" height="150" style="border-radius:50px;" src ="https://user-images.githubusercontent.com/86253405/189937999-1d891020-f621-4be6-8146-eccf1592e1da.gif">
     
 
 </div>
@@ -46,8 +47,11 @@
   <a href="https://www.linkedin.com/in/mariane-b-andrade-255789198/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
   <!--<a href="mailto:marianebedia@outlook.com"target="_blank"><img src=https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white></a>-->  
   
+ <!--<img align="right" alt="mari-icon" height="150" style="border-radius:50px;" src ="https://user-images.githubusercontent.com/86253405/189937999-1d891020-f621-4be6-8146-eccf1592e1da.gif">-->
+
    
-  
+ <img align="right" alt="mari-pic" height="150" style="border-radius:50px;" src="https://user-images.githubusercontent.com/86253405/153959380-178a5f9e-f83d-49f2-9169-8b3718cd9624.gif">
+      
 ![Snake animation](https://github.com/SpeciousSoup956/SpeciousSoup956/blob/output/github-contribution-grid-snake.svg)
   
 </div>
