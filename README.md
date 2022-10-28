@@ -6,7 +6,7 @@
 
 
 - 🔭 Atuo como Analista de Sistemas Trainee
-- 🌱 Atualmente estou estudando <b>C</b>, C++ e <b>Java Script</b>.
+   - 🌱 Atualmente estou estudando <b>C</b>, <b>C++</b> e <b>Java Script</b>.
 - 📫 Contate-me no e-mail: <i><b><ins>marianebedia@outlook.com</ins></b></i>
 - ⚡ Fun fact: Sou cosplayer. Você pode visitar meu perfil no instagram: <a href="https://instagram.com/marianebedia" target="_blank"> <i><b><ins>@Marianebedia</ins></b><i/></a>
    
