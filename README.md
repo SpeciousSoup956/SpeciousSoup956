@@ -50,7 +50,7 @@
  <!--<img align="right" alt="mari-icon" height="150" style="border-radius:50px;" src ="https://user-images.githubusercontent.com/86253405/189937999-1d891020-f621-4be6-8146-eccf1592e1da.gif">-->
 
    
- <img align="right" alt="mari-pic" height="150" style="border-radius:50px;" src="https://user-images.githubusercontent.com/86253405/153959380-178a5f9e-f83d-49f2-9169-8b3718cd9624.gif">
+ <!--<img align="right" alt="mari-pic" height="150" style="border-radius:50px;" src="https://user-images.githubusercontent.com/86253405/153959380-178a5f9e-f83d-49f2-9169-8b3718cd9624.gif">-->
       
 ![Snake animation](https://github.com/SpeciousSoup956/SpeciousSoup956/blob/output/github-contribution-grid-snake.svg)
   
