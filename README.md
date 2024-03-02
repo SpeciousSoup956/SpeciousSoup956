@@ -13,7 +13,7 @@
   <a href="https://github.com/SpeciousSoup956">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=SpeciousSoup956&show_icons=true&theme=jolly&include_all_commits=true&count_private=true"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SpeciousSoup956&layout=compact&langs_count=7&theme=jolly"/>
-</div>
+</div> 
   
   <div style="display: inline_block"><br>
   <img align="center" alt="mari-c-ling" height="30" width="30" src="https://img.icons8.com/color/48/000000/c-programming.png">
