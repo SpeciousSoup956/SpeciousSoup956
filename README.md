@@ -34,7 +34,7 @@
 ##
 
 <div align="left">   
-  <a href="https://instagram.com/marianebedia" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+ <!-- <a href="https://instagram.com/marianebedia" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
    <a href="https://www.twitch.tv/specioussoup956" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
    <a href="https://discord.com/"target="_blank"><img src = https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white>
    <a href="https://steamcommunity.com/profiles/76561198868031515/" target="_blank"><img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" target="_blank"></a>  
