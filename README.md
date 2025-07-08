@@ -4,8 +4,6 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=SpeciousSoup956&color=ff69b4" alt="Profile views" /> </p>
 
 - 🌱 Atualmente estou estudando <b>C</b>.
-- 📫 Contate-me no e-mail: <i><b><ins>marianebedia@outlook.com</ins></b></i>
-- ⚡ Fun fact: Sou cosplayer. Você pode visitar meu perfil no instagram: <a href="https://instagram.com/marianebedia" target="_blank"> <i><b><ins>@Marianebedia</ins></b><i/></a>
    
   ##
 
